@@ -5,7 +5,7 @@
 This Figma wireframe is a design for a new app targeted for Sheridan students. Students can use the app to assist them with their college journey with many useful features such as navigating between courses and assignments, instant messaging with classmates, vieiwing a map of the campus, displaying their schedules and utilizing a to-do list to keep themselves organized.
 
 # Links
-- [Figma link] (https://www.figma.com/file/P12ackYPQwwE9NPQ1JDTYP/Burhan_Faquiri_A2?node-id=0%3A1)
+- [Figma link] (https://www.figma.com/file/P12ackYPQwwE9NPQ1JDTYP/Burhan_Faquiri_A2?node-id=0%3A1).
 - [Video demo]
 
 # Top 5 New Desirable Functionalities
