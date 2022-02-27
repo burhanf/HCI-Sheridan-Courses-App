@@ -6,7 +6,7 @@ This Figma wireframe is a design for a new app targeted for Sheridan students. S
 
 # Links
 - [Figma link](https://www.figma.com/file/P12ackYPQwwE9NPQ1JDTYP/Burhan_Faquiri_A2?node-id=0%3A1)
-- [Video demo]
+- [Video demo](https://youtu.be/iXyDRq4r368)
 
 # Top 5 New Desirable Functionalities
 1.	Video tutorials on course topics
