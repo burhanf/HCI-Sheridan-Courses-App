@@ -5,17 +5,17 @@ Winter 2022 HCI Assignment
 This Figma wireframe is a design for a new app targeted for Sheridan students. Students can use the app to assist them with their college journey with many useful features such as navigating between courses and assignments, instant messaging with classmates, vieiwing a map of the campus, displaying their schedules and utilizing a to-do list to keep themselves organized.
 
 #Screenshots
-![Home](https://myoctocat.com/assets/images/base-octocat.svg)
-![Menu](https://myoctocat.com/assets/images/base-octocat.svg)
-![Course list](https://myoctocat.com/assets/images/base-octocat.svg)
-![Course](https://myoctocat.com/assets/images/base-octocat.svg)
-![Assignment](https://myoctocat.com/assets/images/base-octocat.svg)
-![Create group chat](https://myoctocat.com/assets/images/base-octocat.svg)
-![View chat](https://myoctocat.com/assets/images/base-octocat.svg)
-![Chat](https://myoctocat.com/assets/images/base-octocat.svg)
-![Map](https://myoctocat.com/assets/images/base-octocat.svg)
-![Schedule](https://myoctocat.com/assets/images/base-octocat.svg)
-![Todo](https://myoctocat.com/assets/images/base-octocat.svg)
+![Home](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/home.png)
+![Menu](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/menu.png)
+![Course list](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/course_list.png)
+![Course](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/course.png)
+![Assignment](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/assignment.png)
+![Create group chat](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/create_chat.png)
+![View chat](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/chat_list.png)
+![Chat](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/chat.png)
+![Map](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/map.png)
+![Schedule](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/schedule.png)
+![Todo](https://github.com/burhanf/HCI-Sheridan-Courses-App/blob/main/todo.png)
 
 #Top 5 New Desirable Functionalities
 1.	Video tutorials on course topics
